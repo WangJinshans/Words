@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JDK"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/SWT"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface-3.1.0.jar" sourcepath="/SWT/swt.jar"/>
+	<classpathentry kind="lib" path="lib/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="lib/com.ibm.icu_54.1.1.v201501272100.jar"/>
+	<classpathentry kind="lib" path="lib/com.ibm.icu.source_54.1.1.v201501272100.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.commands_3.7.0.v20150422-0725.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.commands.source_3.7.0.v20150422-0725.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.databinding.observable_1.5.0.v20150422-0725.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.databinding.observable.source_1.5.0.v20150422-0725.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.runtime_3.11.1.v20150903-1804.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.runtime.source_3.11.1.v20150903-1804.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.common.source_3.7.0.v20150402-1709.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.registry_3.6.0.v20150318-1503.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.registry.source_3.6.0.v20150318-1503.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface_3.11.0.v20150602-1400.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface.databinding_1.7.0.v20150406-2148.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface.databinding.source_1.7.0.v20150406-2148.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface.source_3.11.0.v20150602-1400.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface.text_3.10.0.v20150603-1752.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface.text.source_3.10.0.v20150603-1752.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.osgi_3.10.101.v20150820-1432.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.osgi.source_3.10.101.v20150820-1432.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.text_3.5.400.v20150505-1044.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.text.source_3.5.400.v20150505-1044.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.ui.forms_3.6.200.v20150506-2029.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.ui.forms.source_3.6.200.v20150506-2029.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.ui.workbench_3.107.0.v20150825-2206.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.ui.workbench.source_3.107.0.v20150825-2206.jar"/>
+	<classpathentry kind="lib" path="lib/json-jena-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/Msc.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.1-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/tritonus_share-0.3.6.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.1.0.jar" sourcepath="F:/新建文件夹/vedio/vlcj-3.10.1/jna-platform-4.1.0.jar">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="lib/vlcj-3.10.1.jar" sourcepath="F:/新建文件夹/vedio/vlcj-3.10.1/vlcj-3.10.1-sources.jar">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
